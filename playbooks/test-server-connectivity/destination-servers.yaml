@@ -1,1 +1,7 @@
-
+destinationservers:
+  - host: google.com
+    port: 443
+    name: google
+  - host: 172.24.4.10
+    port: 55225
+    name: database server
